@@ -68,8 +68,7 @@ i'm currently studying
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nurulmarisa8/nurulmarisa8/output/snake.svg" alt="Snake animation" />
-
+<img alt="github-snake" src="https://raw.githubusercontent.com/nurulmarisa8/nurulmarisa8/output/github-snake.svg" />
 ###
 
 
