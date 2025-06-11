@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hello World!, I'm Nurul Marisa Clara Waldi!
+  👋 Hello, I'm Nurul Marisa Clara Waldi!
 </h1>
 
 <p align="center">
@@ -13,6 +13,10 @@
 - 🎬 Started creating YouTube video content back in 2017.
 
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="Coding GIF"/>
+</p>
 
 ---
 
@@ -92,3 +96,9 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nurulmarisa8.nurulmarisa8&" alt="Visitor Badge"/>
+</div>
