@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=F7F7F7&background=3FA1FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
+<div align="left">
   
 - 🎓 Currently studying Information Systems at **Hasanuddin University**.
 - 🎮 Really enjoy playing all kinds of games.
@@ -69,26 +69,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <br/><br/>
-  <b>Software & Tools:</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo" />
 </p>
 
 ---
 
 ### 📊 My GitHub Stats & Activity
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nurulmarisa8&theme=date_night&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulmarisa8&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
