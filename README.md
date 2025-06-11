@@ -2,6 +2,10 @@
   👋 Hello World!, I'm Nurul Marisa Clara Waldi!
 </h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=F7F7F7&background=3FA1FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+</p>
+
 <div align="left">
   
 - 🎓 Currently studying Information Systems at **Hasanuddin University**.
@@ -10,9 +14,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
+
 
 ---
 
