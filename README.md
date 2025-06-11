@@ -1,6 +1,4 @@
 <h2 align="left">⛔ Hello, I'm Nurul Marisa Clara Waldi!</h2>
-
-# 💫 About Me:
 i'm currently studying
 
 # 📊 GitHub Stats:
