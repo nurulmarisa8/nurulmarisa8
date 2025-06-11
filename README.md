@@ -69,15 +69,15 @@
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurulmarisa8&theme=date_night&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulmarisa8&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=nurulmarisa8&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurulmarisa8&theme=date_night&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulmarisa8&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=nurulmarisa8&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nurulmarisa8/nurulmarisa8/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nurulmarisa8/nurulmarisa8/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
