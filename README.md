@@ -75,7 +75,7 @@
 
 ### 📊 My GitHub Stats & Activity
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nurulmarisa8&theme=date_night&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulmarisa8&theme=date_night&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
