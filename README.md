@@ -41,11 +41,11 @@
 ### 🚀 My Projects
 <div align="center">
 
-| Project | Status |
-|---|---|
-| **BEAUTRA** | ⏳ On Progress |
-| **Management University** | ✅ Done |
-| **Package Geometri** | ✅ Done |
+| Project | Status | Language |
+|---|---|---|
+| **BEAUTRA** | ⏳ On Progress | `Java` |
+| **Management University** | ✅ Done | `Java` |
+| **Package Geometri** | ✅ Done | `Python` |
 
 </div>
 
