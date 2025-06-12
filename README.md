@@ -8,9 +8,9 @@
 
 <div align="left">
   
-🎓 Currently studying Information Systems at **Hasanuddin University**.
-🎮 Really enjoy playing all kinds of games.
-🎬 Started creating YouTube video content back in 2017.
+- 🎓 Currently studying Information Systems at **Hasanuddin University**.
+- 🎮 Really enjoy playing all kinds of games.
+- 🎬 Started creating YouTube video content back in 2017.
 
 </div>
 
