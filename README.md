@@ -41,7 +41,7 @@
 
 | Project | Status | Language |
 |---|---|---|
-| **BEAUTRA** | ⏳ On Progress | `Java` |
+| **BEAUTRA** | ✅ Done | `Java` |
 | **Management University** | ✅ Done | `Java` |
 | **Package Geometri** | ✅ Done | `Python` |
 
