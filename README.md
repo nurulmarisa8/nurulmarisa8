@@ -45,7 +45,7 @@
 | **Management University** | ✅ Done | `Java` |
 | **Package Geometri** | ✅ Done | `Python` |
 | **UNOKU** | ⏳ Process | `Java Script` |
-| **GoTix** | ⏳ Process | `Laravel` |
+| **GoTix** | ⏳ Process | `Php` |
 
 
 </div>
